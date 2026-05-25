@@ -1,5 +1,5 @@
-MISSAO = "Aurora Nexus"
-EQUIPE = "Equipe Nebula"
+MISSAO = "Odyssey Prime"
+EQUIPE = "Alvinegro Force"
 
 areas_monitoradas = [
     "Temperatura interna",
